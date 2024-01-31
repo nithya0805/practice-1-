@@ -1,0 +1,20 @@
+body{
+     background-image:url("nithya.jpeg") ;
+     height: 50vh;
+     background-size: cover;
+    color:white;
+     text-align: center;
+
+    
+}
+
+h1{
+    color:aquamarine;
+
+}
+
+/* whenever using id in css remember to use ###(hashtags) */
+
+#food{
+    color:rgb(234, 177, 238);
+}
